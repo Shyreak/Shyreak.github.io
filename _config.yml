@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast"
+site_theme               : "mint"
 title                    : "Ziwen Xie"
 title_separator          : "-"
 name                     : &name "Ziwen Xie"
